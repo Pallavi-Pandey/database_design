@@ -1,4 +1,4 @@
-# Database Design & Modeling
+# Database Design Notes
 
 A collection of database architectural designs and modeling notes for various applications.
 
